@@ -1,4 +1,3 @@
-# Machine-Learning-Based-Bank-Loan-Approval-Prediction-System
 # Loan Eligibility Prediction
 
 ## Overview
@@ -112,6 +111,11 @@ http://127.0.0.1:5000/
 
 ---
 
+## Contribution
+Contributions are welcome! Please create a pull request with detailed information about the changes.
+
+---
+
 ## Contributors
 - **Pravinkumar A** – Developer
 
@@ -122,3 +126,6 @@ For any queries or suggestions, feel free to contact:
 
 - **Name**: Pravinkumar A
 - **Email**: [pravinkumar22005@gmail.com](mailto:pravinkumar22005@gmail.com)
+
+
+<img width="1440" alt="Screenshot 2024-12-18 at 7 24 32 PM" src="https://github.com/user-attachments/assets/4127d253-19b1-41d9-b157-2656bb96a14b" />
