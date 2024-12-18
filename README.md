@@ -77,12 +77,12 @@ cd bank-loan-prediction
 
 2. Run the project:
 ```bash
-python app.py
+streamlit run \Bank_Loan_Prediction.py --server.port 8080
 ```
 
 3. Access the application in your browser at:
 ```
-http://127.0.0.1:5000/
+[http://localhost:8080]
 ```
 
 ---
@@ -116,11 +116,6 @@ Contributions are welcome! Please create a pull request with detailed informatio
 
 ---
 
-## Contributors
-- **Pravinkumar A** – Developer
-
----
-
 ## Contact
 For any queries or suggestions, feel free to contact:
 
@@ -128,3 +123,20 @@ For any queries or suggestions, feel free to contact:
 - **Email**: [pravinkumar22005@gmail.com](mailto:pravinkumar22005@gmail.com)
   
 ---
+## Project Interface
+
+<img width="1440" alt="Screenshot 2024-12-18 at 7 24 32 PM" src="https://github.com/user-attachments/assets/95e4bb61-11bc-4fdd-aece-251f9370f584" />
+
+---
+## Languages Incorporated
+
+<img width="1440" alt="Screenshot 2024-12-18 at 7 24 39 PM" src="https://github.com/user-attachments/assets/cc5469f2-8b4c-42ab-a3ed-62c26dac605a" />
+
+---
+## Bank Staff Access to Uploaded User/Customer Files
+
+![947E36A9-4924-42A5-8211-F21A03F16764_4_5005_c](https://github.com/user-attachments/assets/66f7883d-d07d-4a0a-b1de-fe81ab5d69e4)
+
+
+
+
