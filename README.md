@@ -21,7 +21,7 @@ This project predicts loan eligibility using machine learning algorithms. It fea
    - Bank staff can log in to view and manage user details for verification and processing.
 
 5. **Multilingual Support**
-   - Accessibility in English, Telugu, Hindi, and Malayalam.
+   - Accessibility in Tamil, English, Telugu, Hindi, and Malayalam.
 
 6. **User-Friendly Interface**
    - Simple and intuitive UI for a seamless user experience.
